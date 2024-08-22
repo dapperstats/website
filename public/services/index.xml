@@ -5,7 +5,7 @@
     <link>/services/</link>
       <atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <description>DAPPER Stats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2024</copyright>
     <image>
       <url>/img/share_logo.jpg</url>
       <title>DAPPER Stats</title>

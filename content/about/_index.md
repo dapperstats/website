@@ -8,7 +8,7 @@ title: ""
 
 ## History
 
-Dr. Juniper L. Simonis *(they/them)* founded DAPPER Stats in 2015 with a mission to provide quantitative support for every step of the research process for science in academic and applied settings.
+Dr. Juniper L. Simonis founded DAPPER Stats in 2015 with a mission to provide quantitative support for every step of the research process for science in academic and applied settings.
 
 ## Status
 

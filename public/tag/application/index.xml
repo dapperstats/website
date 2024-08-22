@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>application | DAPPER Stats</title>
+    <title>Application | DAPPER Stats</title>
     <link>/tag/application/</link>
       <atom:link href="/tag/application/index.xml" rel="self" type="application/rss+xml" />
-    <description>application</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <description>Application</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2024</copyright>
     <image>
       <url>/img/share_logo.jpg</url>
-      <title>application</title>
+      <title>Application</title>
       <link>/tag/application/</link>
     </image>
     
