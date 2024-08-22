@@ -13,7 +13,7 @@ organizations:
   url: "https://www.dapperstats.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "*they/them*"
+bio: "*she/her*"
 
 interests:
 - Population Dynamics
@@ -56,9 +56,9 @@ user_groups:
 - Team DAPPER
 ---
 
-Dr. Juniper Simonis (*they/them*) brings over 15 years' experience in the fields of statistical, theoretical, and computational conservation biology to DAPPER.
+Dr. Juniper Simonis brings over 15 years' experience in the fields of statistical, theoretical, and computational conservation biology to DAPPER.
 
-Dr. Simonis studied Integrative Biology at the [University of Illinois: Urbana-Champaign](https://illinois.edu/) as an undergraduate (BS 2006) and obtained their PhD in [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/) from [Cornell University](https://www.cornell.edu/) in 2013.
+Dr. Simonis studied Integrative Biology at the [University of Illinois: Urbana-Champaign](https://illinois.edu/) as an undergraduate (BS 2006) and obtained her PhD in [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/) from [Cornell University](https://www.cornell.edu/) in 2013.
 
 On the way to and since starting DAPPER Stats, Dr. Simonis has also been a Postdoctoral Fellow at [Lincoln Park Zoo](https://www.lpzoo.org/)'s [Alexander Center for Applied Population Biology](https://www.lpzoo.org/conservation-science/research-centers/alexander-center-applied-population-biology), a Biometrician at [Cramer Fish Sciences](https://www.fishsciences.net/), and a Data Analyst in the [Weecology Lab](https://www.weecology.org/) at the [University of Florida](http://www.ufl.edu/).
 
